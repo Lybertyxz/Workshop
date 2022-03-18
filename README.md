@@ -117,4 +117,10 @@ Below is an example of how you can install and set up the Workshop.
 
 3. Now use the docs to create the header with 3 buttons and one logo (USE FRAMER FOR ANIMATION, USE TAILWIND FOR STYLING)
 <img src="/public/header.png" alt="Logo">
+
+4. Create an animated modal styled with TailwindCSS
+
+5. Inside the modal create a custom loader
+<img src="/public/modal.png" alt="Logo">
+
 <p align="right">(<a href="#top">back to top</a>)</p>
