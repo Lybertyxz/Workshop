@@ -115,6 +115,6 @@ Below is an example of how you can install and set up the Workshop.
     }
     ```
 
-3. Now use the docs to create the header with 3 navigation buttons and one logo (USE FRAMER FOR ANIMATION, USE TAILWIND FOR STYLING)
-
+3. Now use the docs to create the header with 3 buttons and one logo (USE FRAMER FOR ANIMATION, USE TAILWIND FOR STYLING)
+<img src="/public/header.png" alt="Logo">
 <p align="right">(<a href="#top">back to top</a>)</p>
